@@ -61,7 +61,7 @@ export const Header = (props, { state, setState }) => {
                   className='btn btn-custom btn-lg page-scroll'
                   onClick={() => getWeb3()}
                 >
-                  Buy Token
+                  Buy Tokens
                 </button>                
               </div>
             </div>
